@@ -1,0 +1,16 @@
+The types of error in exception :
+
+    a. ZeroDivisionError
+    b. NameError
+    c. IndexError
+    d. FileNotFoundError
+    e. SyntaxError
+    f. IndentationError
+
+
+Types of way :
+
+    a. try
+    b. except
+    c. else
+    d. finally
